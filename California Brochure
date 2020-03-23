@@ -1,0 +1,67 @@
+<head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            .California {
+                color:green;
+            } 
+            body {
+                background-color: rgb(96, 209, 201);
+            }
+            #go {
+                color:red;
+            }
+            #to {
+                color:yellow;
+            }
+            #intro {
+                color:rgb(127, 255, 127);
+            }
+            .thingstodo {
+                color:rgb(247, 0, 41);
+            }
+            #planting {
+                color:rgb(237, 83, 227);
+            }
+            #history{
+                color:rgb(74, 52, 13);
+            }
+            #theme-park {
+                color:yellow;
+            }
+            #nature-hike {
+                color:green;
+            }
+            #aquarium{
+               color:blue; 
+            }
+            #beaches {
+                color:orange;
+            }
+            #fancy-restraunt {
+                color:red;
+            }
+            
+        </style>
+    </head>
+    <body>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Noto_Emoji_Pie_1f3dd.svg/1200px-Noto_Emoji_Pie_1f3dd.svg.png" width="10">
+        <h1 class="California">Travel to ....</h1><h1 class="California">California</h1>
+        <p id="intro">California is a green land on the western coast of the USA. Many people live there, and there are many sites for tourists to see.</p> <h1>Things To Do:</h1><h2>Sites to visit</h2><p class="thingstodo">In california there are many things to see. For example, kids love to go to Universal Studios, the theme park with fun  rides and a water park in Sacramento, that you should definetly check out sometime. California also has a DisneyLand which is another kids favorite plus many of National Parks like Yosemite! Then, in San Fransisco, there is the Golden Gate Bridge. It is surprisingly red and not golden, but it is an amazing bridge to see any how when you come to California.</p>
+        <h2>Destinations to Go</h2><p class="thingstodo"> There specific places you can visit but, there are also many other things to do. You can go to a beach. Being on the coast, there are many beaches in California, and you can splash in the waves, build a sandcastle, or simply just relax on a warm evening. When you plan a trip to California, make sure to take time to visit beaches into your schedule. Another fun thing to do is to go on hikes. You can hike in many places, but California has some especially nice spots scattered here and there. When you go to California, you should remember to make space for all the exciting things to try. I've barely started my list!</p>
+        <h2> Animals to look for</h2> <p class="thingstodo"> The national bird of the USA is the Golden Eagle. These can be seen flying in the sky in California. Definetly many hawks, kites, and eagles have been spotted here. On the California Flag, you will see a Brown Bear,  that too can be spotted in California. If you are afraid, don't worry. They don't roam around the city. There are many other cool animals to look for as well.</p> <h1>Things to know</h1>
+        <h2>Planting</h2><p id="planting"> In California, the soil is very rich. Many things grow here. Gardeners and scientists have found that the rich soil is very noroushing to plants that grow here. You will find in many stores that there are fresh fruits and beautiful flowers. You will also find if you go to someone's yard (if they live in a house) they are propbably growing something. Fruits,vegetables, flowers.  </p> <h1>History</h1> <p id="history"> California wasn't always the bustling state it is now. It started of, like most USA states, as a land inhabited with Native Americans. When people came to America, as you might know, they first colonized 13 states on the opposite sides of the USA. Only a few people ventured beyond and those who did were usualy high class explorers or scientists. However, one day, a man named James W. Marshall found gold in California! Many people rushed over, all hoping for a share of this prize! This was called the Gold Rush. Gold was found, but not everone got it. However, at this point, many people had come to Calfornia. After the Gold Rush, several of them started their own buisnesses. Many, many shops began to open, and California was begining to become bigger. People began to swarm in from other places as well, to California and the other states. With lots more events, California became what it is today.</p> <h1> Top 5 Things to put on you "Vacation to California" Schedule</h1> <h2><ul>
+            <li id="theme-park"> Theme Parks
+            <li id= "nature-hike"> Nature Hike
+            <li id="aquarium"> Aquarium
+            <li id="beaches"> Beaches
+            <li id="fancy-restraunt"> Fancy Restraunt
+            
+
+        </ul> </h2>
+        <h2> Also Try And Make Time To See Sights Like...</h2>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/20190616154621%21Echo_Park_Lake_with_Downtown_Los_Angeles_Skyline.jpg" width="200"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/2011_Disney_California_Adventure-_Mickey%27s_Fun_Wheel_and_California_Screaming_%285809337433%29.jpg" width="250" height= "150"> <h4> There are many more things you should know! Here is one more reminder from me...</h4><h2 id="go"> Go</h2><h2 id="to"> To</h2><h2 id="California"> California!</h2>
+        
+        
+    </body>
+</html>
